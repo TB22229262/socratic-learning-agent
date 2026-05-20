@@ -1,6 +1,0 @@
-timestamp	commit	skill	old_score	new_score	status	dimension	note	eval_mode
-2026-05-14T17:25:01+0800	git_unavailable	socratic-learning-agent	88	91	keep	指令具体性	补充大领域首轮分支选择、资料请求模板、概念卡、使用边界和博弈论示例，提升真实执行稳定性	git_unavailable
-2026-05-14T17:29:22+0800	git_unavailable	socratic-learning-agent	91	95	keep	整体架构	补充学习契约、知识网络维护、掌握验证任务和质量闸门，使长期学习闭环更可验证	git_unavailable
-2026-05-20T18:30:07+0800	git_unavailable	socratic-learning-agent	81.75	83.75	keep	整体架构	新增课程包硬规则速查和写入决策表，前置 analyse/content/数字课程文件协议，降低继续学习和课后反馈场景的执行歧义	git_unavailable
-2026-05-20T18:33:59+0800	git_unavailable	socratic-learning-agent	83.75	90.55	keep	整体架构	压缩 826 行旧版为 468 行执行协议，保留课程包硬规则、读写决策表、诊断教学循环和输出骨架，减少重复规则并提升真实 prompt 下的执行稳定性	git_unavailable
-2026-05-20T18:51:20+0800	git_unavailable	socratic-learning-agent	90.55	92.05	keep	检查点设计	新增开课门槛：新主题必须先达到 90% 水平把握、确认补充材料状态、让用户确认待确认大纲后，才写 analyse/content 并生成 01.md	git_unavailable
